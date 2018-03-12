@@ -1,0 +1,11 @@
+{
+  "name": "ultimate-squad-ui-core",
+  "version": "0.0.1",
+  "description": "Ultimate team's UI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Sangobanwo",
+  "license": "ISC"
+}
